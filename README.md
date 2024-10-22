@@ -1,7 +1,7 @@
 # FWFS
 Fourier Wavefront Sensor and E2E scheme implementation for "[Deep joint design in a Fourier-based wavefront sensor: a semi-analytical approach]()"
 
-![ ](end2end_scheme.png)
+![ ](fig_e2e.png)
 
 # Requirements
 The .yml file contains all required libraries to execute without problems in the repository. To install it, execute the following code to create a conda environment:
